@@ -1,5 +1,12 @@
 {
 	"addon": {
-		
+		"@traceq-browser-extension.invictolabs1": {
+			"updates": [
+				{
+					"version": "2.0",
+					"update_link": ""
+				}
+			]
+		}
 	}
 }
