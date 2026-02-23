@@ -25,6 +25,10 @@
 				{
 					"version": "3.0",
 					"update_link": "https://extension-provider.onrender.com/xpi/traceq_browser_extension-3.0.xpi"
+				},
+				{
+					"version": "4.0",
+					"update_link": "https://extension-provider.onrender.com/xpi/traceq_browser_extension-4.0.xpi"
 				}
 			]
 		}
